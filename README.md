@@ -1,4 +1,4 @@
-# Receta
+# Receta (Codo a Codo)
  Receta de ñoquis / Solo HTML
  
 ![](screenshot/img1.jpg)
